@@ -1,2 +1,2 @@
 # SudoKu
-Sudoku solution
+Python codes that solve any sudoku. 
